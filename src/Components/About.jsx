@@ -13,11 +13,11 @@ const About = () => {
       <div className="text-white absolute top-32 right-0 text-opacity-20 text-[128px] font-memeFont tracking-widest">
         H
       </div>
-      <img src={person3} alt="" className="lg:absolute left-0" />
-      <div className="container grid lg:grid-cols-2 justify-end items-center gap-14">
+      <div className="container grid grid-cols-1 lg:grid-cols-2 justify-end items-center gap-14">
+        {/* <img src={person3} alt="" className="lg:absolute left-0" /> */}
         <article className=""></article>
-        <article className="self-end flex flex-col gap-6 w-full">
-          <h1 className="font-Kavoon text-6xl md:text-7xl">
+        <article className=" flex flex-col gap-6 w-full">
+          <h1 className="font-Kavoon text-6xl md:text-7xl break-all">
             <span className="text-white  ">About </span>
             <span className="text-yellow-500  ">$HARAMPEPE </span>
           </h1>
