@@ -38,9 +38,13 @@ const About = () => {
             target="_blank"
             className="w-[238px] h-[54px] font-Kavoon px-8 py-4 bg-white text-green-700 rounded shadow  border border-lime-400  justify-center items-center gap-[10px] inline-flex"
           >
-            <div className=" text-[16px] leading-snug uppercase">
+            <a
+              href="https://app.uniswap.org/#/swap?outputCurrency=0x4B5707F91fabBF04C2A41E892B0A07E3aBaC75df"
+              target="_blank"
+              className=" text-[16px] leading-snug uppercase"
+            >
               buy on uniswap
-            </div>
+            </a>
           </a>
         </article>
       </div>
