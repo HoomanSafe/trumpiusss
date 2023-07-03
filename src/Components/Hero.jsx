@@ -17,8 +17,16 @@ const Hero = () => {
           meme-tastic, crypto-cool, and guaranteed to make you shout, "Harambe
           Pepe, take my money!"
         </p>
-        <p className=" text-3xl font-Kavoon">
-          0x000...............................
+        <p
+          className=" text-3xl font-Kavoon"
+          onClick={async () => {
+            await navigator.clipboard.writeText(
+              "0x4B5707F91fabBF04C2A41E892B0A07E3aBaC75df"
+            );
+            alert("contract copied");
+          }}
+        >
+          0x4B57.............
         </p>
         {/* <a
           href="mailto:team@haram pepetoken.com"
