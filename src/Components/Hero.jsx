@@ -29,7 +29,7 @@ const Hero = () => {
         <a
           href=""
           target="_blank"
-          className="w-[355px] h-[54px] uppercase px-8 py-4 bg-gradient-to-l from-green-300 to-lime-300 rounded shadow  border border-lime-400 justify-center items-center gap-[10px] text-black text-[16px] leading-snug font-anakeimDisplaySsiRegular  hover:text-white"
+          className="w-[355px] h-[54px] uppercase px-8 py-4 bg-gradient-to-l from-yellow-500 to-rose-400 rounded shadow  border border-lime-400 justify-center items-center gap-[10px] text-white text-[16px] leading-snug font-Kavoon  hover:text-white"
         >
           buy haram pepe
         </a>
