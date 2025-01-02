@@ -1,6 +1,6 @@
 import React from "react";
-import personRight from "../assets/person-right.png";
-import personLeft from "../assets/person-left.png";
+import personRight from "../assets/trumpiuslogo1.jpg";
+import personLeft from "../assets/trumpiuslogo.jpg";
 import Logo from "../assets/logo.png";
 
 const Hero = () => {
@@ -9,13 +9,15 @@ const Hero = () => {
       <div className="container flex justify-center items-center flex-col gap-7 text-center">
         <h1 className="text-5xl lg:text-8xl font-Kavoon uppercase">
           welcome to <br />
-          <span className="text-yellow-500">haram pepe</span>
+          <span className="text-yellow-500">TRUMPIUS</span>
         </h1>
         <p className="font-workSans text-xl">
-          Haram Pepe: Where Harambe meets Pepe in a wild crypto meme adventure!
-          Get ready to laugh, hodl, and join the hilarious revolution. It's
-          meme-tastic, crypto-cool, and guaranteed to make you shout, "Harambe
-          Pepe, take my money!"
+         Trumpius Maximus - BNB 
+
+I am the 2025 President of Memes and USA 
+
+I am here to Make Memes Great Again and spark a new bull run!
+
         </p>
         <p
           className=" text-3xl font-Kavoon"
@@ -26,7 +28,7 @@ const Hero = () => {
             alert("contract copied");
           }}
         >
-          0x4B57.............
+          0x00000.............
         </p>
         {/* <a
           href="mailto:team@haram pepetoken.com"
