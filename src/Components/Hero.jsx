@@ -1,6 +1,6 @@
 import React from "react";
 import personRight from "../assets/trumpiuslogo1.jpg";
-import personLeft from "../assets/trumpiuslogo.jpg";
+import personLeft from "../assets/nfttrump2.jpeg";
 import Logo from "../assets/logo.png";
 
 const Hero = () => {
