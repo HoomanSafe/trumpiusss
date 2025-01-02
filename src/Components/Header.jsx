@@ -6,10 +6,10 @@ const Header = () => {
     <header className="py-3 w-full font-Kavoon z-10 ">
       <nav className="container flex justify-between items-center">
         <a href="" className="text-4xl uppercase">
-          haram pepe
+          TRUMPIUS MAXIMUS
         </a>
         <a
-          href="https://t.me/HaramPepePortal"
+          href="https://t.me/TrumpiusMaximuss"
           className="px-8 py-4 bg-secondary border border-light rounded-md shad font-anakeimDisplaySsiRegular hidden md:flex items-center gap-3 hover:bg-transparent uppercase max-w-full"
         >
           <LiaTelegramPlane /> telegram
