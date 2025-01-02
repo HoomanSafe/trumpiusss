@@ -28,7 +28,7 @@ I am here to Make Memes Great Again and spark a new bull run!
             alert("contract copied");
           }}
         >
-          0x00000.............
+          0x939Ed9AdF06683D3c0493102B1CC4dc56A73225b
         </p>
         {/* <a
           href="mailto:team@haram pepetoken.com"
