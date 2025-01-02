@@ -1,7 +1,7 @@
 import React from "react";
-import personRight from "../assets/trumpiuslogo1.jpg";
-import personLeft from "../assets/nfttrump2.jpeg";
-import Logo from "../assets/logo.png";
+import personRight from "";
+import personLeft from "";
+import Logo from "../assets/trumpiuslogo1.jpg";
 
 const Hero = () => {
   return (
