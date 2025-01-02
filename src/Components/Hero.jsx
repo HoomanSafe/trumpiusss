@@ -41,7 +41,7 @@ I am here to Make Memes Great Again and spark a new bull run!
           target="_blank"
           className="w-[355px] h-[54px] uppercase px-8 py-4 bg-gradient-to-l from-yellow-500 to-rose-400 rounded shadow  border border-lime-400 justify-center items-center gap-[10px] text-white text-[16px] leading-snug font-Kavoon  hover:text-white"
         >
-          buy haram pepe
+          buy Trumpius
         </a>
         <img src={Logo} alt="" />
         <div className="">
