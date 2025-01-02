@@ -8,7 +8,7 @@ const Footer = () => {
           TRUMPIUS MAXIMUS
         </a>
         <p className="">
-          Copyright © <span className="">{Date()}</span> TRUMPIPUS MAXIMUS. All Rights
+          Copyright © <span className="">{Date()}</span> TRUMPIUS MAXIMUS. All Rights
           Reserved.
         </p>
         <div className="flex items-center gap-5">
