@@ -5,15 +5,15 @@ const Footer = () => {
     <footer className="pt-40 w-ful pb-4">
       <div className="container flex justify-between items-center flex-col md:flex-row gap-8 text-center">
         <a href="" className="font-Kavoon text-5xl">
-          haram pepe
+          TRUMPIUS MAXIMUS
         </a>
         <p className="">
-          Copyright © <span className="">{Date()}</span> haram pepe. All Rights
+          Copyright © <span className="">{Date()}</span> TRUMPIPUS MAXIMUS. All Rights
           Reserved.
         </p>
         <div className="flex items-center gap-5">
           <a
-            href="https://t.me/HaramPepePortal"
+            href="https://t.me/TrumpiusMaximuss"
             target="_blank"
             className="hover:scale-90 transition"
           >
@@ -61,7 +61,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://twitter.com/harampepeerc20"
+            href="https://x.com/TrumpiMaximus"
             target="_blank"
             className="hover:scale-90 transition"
           >
